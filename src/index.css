@@ -53,7 +53,7 @@ body {
   margin-top: 0.25rem;
 }
 
-/*Buttons */
+
 .btn {
   display: inline-flex;
   align-items: center;
@@ -163,7 +163,7 @@ body {
   color: var(--text-secondary);
 }
 
-/*  Modal Styles */
+
 .modal-overlay {
   position: fixed;
   inset: 0;
